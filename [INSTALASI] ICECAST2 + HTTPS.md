@@ -53,3 +53,6 @@
       ```
           sudo service icecast2 restart
       ```
+            
+##### 7. Settingan Untuk Mixx
+![WhatsApp Image 2021-07-27 at 01 43 03](https://user-images.githubusercontent.com/67460437/127045429-a045e75a-8edc-4b2f-8fc4-58119383c12a.jpeg)
